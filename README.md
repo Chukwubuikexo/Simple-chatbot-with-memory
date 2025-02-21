@@ -1,4 +1,4 @@
-# Chatbot with Summarizing Messages Memory
+# Chatbot with Summarizing Messages and Memory
 
 This ipynb file that demonstrates how to build a chatbot with memory capabilities using the LangChain and Google Generative AI models. The chatbot is designed to maintain a conversation history and summarize the conversation when it exceeds a certain length. This is particularly useful for long conversations where summarizing the key points can help maintain context and improve the chatbot's responses.
 
